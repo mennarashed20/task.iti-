@@ -1,4 +1,4 @@
-
+//hospital project
 class Employee {
   String name;
   int id;
@@ -24,11 +24,5 @@ class Nurse extends Employee {
     print("Specialization: $specialization");
   }
 }
-
-
-
-
-
-
 
 
