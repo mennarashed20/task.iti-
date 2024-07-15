@@ -7,7 +7,9 @@ class Patient {
   String diagnosis;
   final List<Treatment> treatments;
   final List<Doctor> assignedDoctors;
-
+    //test merge
+    //jdcbhdbcjknm jbdnfmmcx  bsfdgvhdbfjroekodm,n XCB 
+    
     Patient(this.name, this.id, this.diagnosis, this.treatments, this.assignedDoctors);
 
   void addTreatment(Treatment treatment) {
