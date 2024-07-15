@@ -1,6 +1,6 @@
 import 'doctor.dart';
 import 'treatment.dart';
-
+//kmvkfcblmll;klgfsdfjnlmkl,dvc.dfc
 class Patient {
   String name;
   int id;
