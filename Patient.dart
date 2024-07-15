@@ -9,6 +9,9 @@ class Patient {
   final List<Doctor> assignedDoctors;
    //recv merge
    //djnwwjbdcn mnyghwedjmnm,ch qdhjncm  yyqdb 
+    //test merge
+    //jdcbhdbcjknm jbdnfmmcx  bsfdgvhdbfjroekodm,n XCB 
+    
     Patient(this.name, this.id, this.diagnosis, this.treatments, this.assignedDoctors);
 
   void addTreatment(Treatment treatment) {
